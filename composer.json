@@ -1,0 +1,21 @@
+{
+    "name": "mirovit/eik-validator",
+    "description": "Algorithm for validation of EIK/BULSTAT in Bulgaria",
+    "keywords": ["validator", "eik", "bulstat", "Bulgaria"],
+    "license": "MIT",
+    "require-dev": {
+        "phpunit/phpunit": "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mirovit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Miroslav Vitanov",
+            "email": "mvvitanov@gmail.com"
+        }
+    ],
+    "require": {}
+}
