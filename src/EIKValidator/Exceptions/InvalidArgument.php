@@ -2,4 +2,6 @@
 
 namespace Mirovit\EIKValidator\Exceptions;
 
-class InvalidArgument extends \Exception {}
+class InvalidArgument extends \Exception
+{
+}
