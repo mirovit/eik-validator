@@ -5,6 +5,7 @@
 > Upon entry of a newly registered entity in the BULSTAT Register, a unique unified identification code (UIC) is generated, called BULSTAT Code, which is the only identifier of business subjects in Bulgaria. All legal subjects listed in the BULSTAT Register shall use and state the BULSTAT UIC in the documents they issue and use in their workflow.
 > - [psc.egov.bg](http://psc.egov.bg/en/psc-starting-a-business-bulstat)
 
+[![Build Status](https://travis-ci.org/mirovit/eik-validator.svg?branch=master)](https://travis-ci.org/mirovit/eik-validator)
 
 # How to use?
 
