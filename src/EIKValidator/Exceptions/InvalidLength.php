@@ -2,6 +2,6 @@
 
 namespace Mirovit\EIKValidator\Exceptions;
 
-class InvalidLength extends \Exception
+class InvalidLength extends \OutOfRangeException
 {
 }
