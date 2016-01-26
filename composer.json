@@ -17,5 +17,7 @@
             "email": "mvvitanov@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.4"
+    }
 }
